@@ -4,4 +4,4 @@ stage('Setting the variables values') {
                  echo "hello world" 
          '''
     }
-}
+}  
